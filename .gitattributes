@@ -1,0 +1,7 @@
+# Set the default behavior for unix-style line endings
+* text eol=lf
+
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
